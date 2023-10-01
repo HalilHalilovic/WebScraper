@@ -58,7 +58,7 @@ export function RegisterPage() {
   };
   return (
     <div className={"login-page"}>
-      <p className={"sedc-logo"}>WebScraper</p>
+      <p className={"sedc-logo"}>User</p>
       <h4>
         <i className="bi bi-lock-fill"></i>Sign In
       </h4>
